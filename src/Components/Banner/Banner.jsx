@@ -6,7 +6,7 @@ const Banner = () => {
                 <img src="https://i.ibb.co/s28yMLN/book1.jpg" />
                 <div>
                     <h1 className="text-5xl font-bold">Books to freshen up <br /> your bookshelf</h1>
-                    <button className="btn btn-primary">View The List</button>
+                    <button className="btn btn-warning my-8">View The List</button>
                 </div>
             </div>
         </div>
