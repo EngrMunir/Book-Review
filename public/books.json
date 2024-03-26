@@ -3,7 +3,7 @@
       "bookId": 1,
       "bookName": "To Kill a Mockingbird",
       "author": "Harper Lee",
-      "image": "https://example.com/to_kill_a_mockingbird.jpg",
+      "image": "https://i.ibb.co/QXB0034/book1.jpg",
       "review": "A timeless classic exploring themes of racial injustice and moral growth in the American South.",
       "totalPages": 281,
       "rating": 4.5,
@@ -16,7 +16,7 @@
       "bookId": 2,
       "bookName": "1984",
       "author": "George Orwell",
-      "image": "https://example.com/1984.jpg",
+      "image": "https://i.ibb.co/Y8m2N22/book2.jpg",
       "review": "A dystopian novel exploring totalitarianism, surveillance, and the loss of individuality.",
       "totalPages": 328,
       "rating": 4.7,
@@ -29,7 +29,7 @@
       "bookId": 3,
       "bookName": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
-      "image": "https://example.com/the_great_gatsby.jpg",
+      "image": "https://i.ibb.co/J5DXkwk/book3.jpg",
       "review": "A portrait of the Jazz Age, depicting the disillusionment of the American Dream.",
       "totalPages": 180,
       "rating": 4.3,
@@ -42,7 +42,7 @@
       "bookId": 4,
       "bookName": "The Catcher in the Rye",
       "author": "J.D. Salinger",
-      "image": "https://example.com/the_catcher_in_the_rye.jpg",
+      "image": "https://i.ibb.co/Fz214xd/book4.jpg",
       "review": "A coming-of-age novel exploring themes of teenage angst, alienation, and identity.",
       "totalPages": 277,
       "rating": 4.4,
@@ -55,7 +55,7 @@
       "bookId": 5,
       "bookName": "Pride and Prejudice",
       "author": "Jane Austen",
-      "image": "https://example.com/pride_and_prejudice.jpg",
+      "image": "https://i.ibb.co/Khd6Bys/book5.jpg",
       "review": "A classic romance novel exploring themes of love, class, and societal expectations.",
       "totalPages": 279,
       "rating": 4.6,
@@ -68,7 +68,7 @@
       "bookId": 6,
       "bookName": "Sapiens: A Brief History of Humankind",
       "author": "Yuval Noah Harari",
-      "image": "https://example.com/sapiens.jpg",
+      "image": "https://i.ibb.co/thbWq5K/book6.jpg",
       "review": "A thought-provoking exploration of the history of Homo sapiens, from the Stone Age to the present.",
       "totalPages": 443,
       "rating": 4.8,
@@ -81,7 +81,7 @@
       "bookId": 7,
       "bookName": "The Hobbit",
       "author": "J.R.R. Tolkien",
-      "image": "https://example.com/the_hobbit.jpg",
+      "image": "https://i.ibb.co/k4V7XZ9/book7.jpg",
       "review": "An enchanting tale of adventure, friendship, and courage set in Middle-earth.",
       "totalPages": 310,
       "rating": 4.7,
@@ -94,7 +94,7 @@
       "bookId": 8,
       "bookName": "The Road",
       "author": "Cormac McCarthy",
-      "image": "https://example.com/the_road.jpg",
+      "image": "https://i.ibb.co/0jHSmS6/book8.jpg",
       "review": "A post-apocalyptic novel following the journey of a father and son across a barren landscape.",
       "totalPages": 287,
       "rating": 4.5,
@@ -107,7 +107,7 @@
       "bookId": 9,
       "bookName": "The Da Vinci Code",
       "author": "Dan Brown",
-      "image": "https://example.com/the_da_vinci_code.jpg",
+      "image": "https://i.ibb.co/Pwv57x5/book9.jpg",
       "review": "A gripping thriller unraveling a mystery involving ancient secrets and religious conspiracies.",
       "totalPages": 454,
       "rating": 4.2,
@@ -120,7 +120,7 @@
       "bookId": 10,
       "bookName": "Harry Potter and the Philosopher's Stone",
       "author": "J.K. Rowling",
-      "image": "https://example.com/harry_potter_and_the_philosophers_stone.jpg",
+      "image": "https://i.ibb.co/XZKKkjb/book10.jpg",
       "review": "The magical journey begins with a young wizard discovering his true identity at Hogwarts School of Witchcraft and Wizardry.",
       "totalPages": 223,
       "rating": 4.9,
@@ -131,3 +131,10 @@
     }
   ]
   
+
+
+
+
+
+
+
