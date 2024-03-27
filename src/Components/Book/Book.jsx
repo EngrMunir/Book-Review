@@ -18,7 +18,8 @@ const Book = ({book}) => {
                 <div className="flex gap-8">
                   <p>{category}</p>
                   <div className="flex">
-                  <p>{rating}</p><IoIosStarOutline className="my-1" />
+                  <p>{rating}</p>
+                  <IoIosStarOutline className="my-1" />
                   </div>
                 </div>
   </div>
